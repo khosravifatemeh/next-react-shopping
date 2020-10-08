@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nexport default function Footer() {\n  return __jsx(\"footer\", {\n    className: \"footer\"\n  }, __jsx(\"p\", null, \"Next.js app with a \", __jsx(\"a\", {\n    href: \"https://snipcart.com\"\n  }, \"Snipcart\"), \" - powered store\"));\n}","map":null,"metadata":{},"sourceType":"module"}
